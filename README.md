@@ -58,9 +58,3 @@ for sublists in splits:
                 ?node wikibase:geoLongitude ?lon .
                 SERVICE wikibase:label { bd:serviceParam wikibase:language 'en'. }}"""%(tokens)
 ```
-
-
-
- file:///home/dmolina/gitblog/jekyll-uno-timeline/_data/stadium.jpg
-
-
